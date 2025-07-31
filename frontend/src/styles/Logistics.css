@@ -1,0 +1,46 @@
+/* Logistics.css */
+.logistics-page {
+  padding: 2rem;
+}
+.logistics-form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+.logistics-form input,
+.logistics-form select {
+  flex: 1 1 180px;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+.logistics-form .error {
+  width: 100%;
+  color: #c00;
+  margin-bottom: 0.5rem;
+}
+.logistics-form button {
+  padding: 0.75rem 1.5rem;
+  background: #7f56d9;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.logistics-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 8px;
+}
+.logistics-table th,
+.logistics-table td {
+  padding: 0.75rem 1rem;
+  background: #fff;
+  text-align: left;
+}
+.logistics-table th {
+  background: #1f2937;
+  color: #fff;
+  font-weight: 600;
+}

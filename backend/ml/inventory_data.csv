@@ -1,0 +1,17 @@
+_id,name,type,quantity,price,status,__v,itemName,category
+6815ecec7aeef5f1ec9b8769,Mango,Fruit,6,45.5,low stock,0.0,,
+6815ee2f7aeef5f1ec9b876d,Apples,Fruit,149,56.0,in stock,0.0,,
+6815ee4b7aeef5f1ec9b8770,Laptop,Electronics,5,700000.0,low stock,0.0,,
+68185653d130fe6424197bbe,Grapes,Fruit,12,30.0,low stock,0.0,,
+681e2670061933e824a44cdc,T.V,Electronics,15,120000.0,in stock,0.0,,
+6820823ec9ed0bd1e49bfca5,Shoes,Stationary,6,12000.0,in stock,0.0,,
+68208b565e83a04a402714c9,Widget A,Gadget,50,199.99,in stock,0.0,,
+68208c125e83a04a402714d4,Pen,Statinary,10,120.0,in stock,0.0,,
+68208ed9d064bf0edc46900f,Watch,Gadgets,12,50000.0,low stock,0.0,,
+6820942992482e2e13ed9456,Phone,Electronics,9,700000.0,in stock,0.0,,
+682095343f90a396e8a9c066,,,10,25000.0,,,Phone,Electronics
+6821f22911077d3cc172e6d1,WaterMelon,Fruit,0,30.0,in stock,0.0,,
+68233bb65c21933bd1441a51,Washing Machine,Electronics,12,150000.0,in stock,0.0,,
+682341271717bb833a98e32a,Spects,Gadgets,1,700.0,in stock,0.0,,
+68247d48dc5f2d3e44f370b8,RemoteCar,Gadgets,3,700000.0,in stock,0.0,,
+68271c93aac05114efe3c940,Apple,Fruit,12,1200.0,in stock,0.0,,

@@ -1,0 +1,26 @@
+.staff-dashboard {
+  padding: 2rem;
+  text-align: center;
+}
+
+.staff-options {
+  margin-top: 1.5rem;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.staff-options button {
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  background-color: #2c3e50;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.staff-options button:hover {
+  background-color: #34495e;
+}

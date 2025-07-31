@@ -1,0 +1,27 @@
+.dashboard-container {
+  padding: 2rem;
+  background-color: #f8f9fa;
+  border-radius: 10px;
+}
+
+.dashboard-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+.dashboard-table th,
+.dashboard-table td {
+  padding: 12px;
+  border: 1px solid #dee2e6;
+  text-align: left;
+}
+
+.dashboard-table th {
+  background-color: #343a40;
+  color: white;
+}
+
+.dashboard-table tr:nth-child(even) {
+  background-color: #f1f1f1;
+}
